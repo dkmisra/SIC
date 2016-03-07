@@ -4,7 +4,7 @@ Smart Interface to Cloud (SIC) is a middleware that optimizes resources and budg
 # Status
 Code coming soon. Please visit in couple of days.
 
-# What is SIC and why do I needed?
+# What is SIC and why do I need it?
 Often workload is transfered to cloud, either when workload becomes too much to handle on the local system or
 to benefit from specialized hardware for specific type of requests. Thus, one has to often request for cloud instances
 on demand. Inspite of streamlined interface, time taken between requesting an instance to having an available ready-to-use instane can be significant (upto a minute or more). While keeping instances open all the time wastes money and resources.
