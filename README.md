@@ -4,7 +4,7 @@ Smart Interface to Cloud (SIC) is a middleware that optimizes resources and budg
 # Status
 Production version of code will be released soon. 
 
-For a copy of developmental version please send an email to Dipendra Misra (dkm@cs.cornell.edu) 
+For a copy of developmental version of code, please send an email to Dipendra Misra (dkm@cs.cornell.edu) 
 
 # What is SIC and why do I need it?
 Often workload is transfered to cloud, either when workload becomes too much to handle on the local system or
