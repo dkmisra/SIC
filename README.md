@@ -11,4 +11,4 @@ Often workload is transfered to cloud, either when workload becomes too much to 
 to benefit from specialized hardware for specific type of requests. Thus, one has to often request for cloud instances
 on demand. Inspite of streamlined interface, time taken between requesting an instance to having an available ready-to-use instane can be significant (upto a minute or more). While keeping instances open all the time wastes money and resources.
 
-To handle this problem, in situations where workload is fairly predictable, we propose a solution called SIC. SIC predicts workload and prefetches the instance so that an instance is available when you need it, while minimizing idle time of instance. Really its that simple.
+To handle this problem, in situations where workload is fairly predictable, we propose a solution called SIC. SIC predicts workload and prefetches the instance so that an instance is available when you need it, while minimizing idle time of instance and your money. Really its that simple.
