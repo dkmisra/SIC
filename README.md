@@ -1,7 +1,7 @@
 # Summary
 Smart Interface to Cloud (SIC) is a middleware that optimizes resources and budget by predicting workload. Its a client side solution that is compatible with different cloud services. Currently integrated with Amazon AWS.
 
-# Status
+# Getting the code
 Production version of code will be released soon. 
 
 For a copy of developmental version of code, please send an email to Dipendra Misra (dkm@cs.cornell.edu) 
